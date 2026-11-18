@@ -1,0 +1,19 @@
+{
+  "config": {
+    "name": "constant",
+    "architecture": "SymbolCNN",
+    "optimizer": "SGD",
+    "weight_decay": 0.0005,
+    "dropout": 0.0,
+    "smoothing": 0.0,
+    "augmentation": "standard",
+    "batch_size": 128,
+    "schedule": "constant",
+    "initialization": "Kaiming"
+  },
+  "seed": 37,
+  "base_lr": 0.01,
+  "epochs": 60,
+  "data_seed": 2026,
+  "split_seed": 731
+}
