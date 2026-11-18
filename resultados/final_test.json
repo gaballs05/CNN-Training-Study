@@ -1,0 +1,10 @@
+{
+  "config": "constant",
+  "seed": 37,
+  "epoch": 35,
+  "validation_mean": 0.7977777719497681,
+  "checkpoint_validation_accuracy": 0.8333333134651184,
+  "test_accuracy": 0.753333330154419,
+  "test_loss": 0.9813323020935059,
+  "images": 150
+}
